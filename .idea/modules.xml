@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ano-bissexto/ano-bissexto.iml" filepath="$PROJECT_DIR$/ano-bissexto/ano-bissexto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/categoria/categoria.iml" filepath="$PROJECT_DIR$/categoria/categoria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dia-da-semana/dia-da-semana.iml" filepath="$PROJECT_DIR$/dia-da-semana/dia-da-semana.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercices-ada-tech.iml" filepath="$PROJECT_DIR$/exercices-ada-tech.iml" />
+      <module fileurl="file://$PROJECT_DIR$/insira-um-mes/insira-um-mes.iml" filepath="$PROJECT_DIR$/insira-um-mes/insira-um-mes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maior-numero-inserido/maior-numero-inserido.iml" filepath="$PROJECT_DIR$/maior-numero-inserido/maior-numero-inserido.iml" />
+      <module fileurl="file://$PROJECT_DIR$/numero-primo/numero-primo.iml" filepath="$PROJECT_DIR$/numero-primo/numero-primo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/signo/signo.iml" filepath="$PROJECT_DIR$/signo/signo.iml" />
+    </modules>
+  </component>
+</project>
