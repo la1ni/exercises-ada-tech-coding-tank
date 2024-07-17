@@ -3,7 +3,7 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-Neste repositório, espero inserir as resoluções dos exercícios propostos no Coding Tank do Santander Coders 2024 em parceria com a Ada Tech.
+Neste repositório, irei inserir as resoluções dos exercícios propostos no Coding Tank do Santander Coders 2024 em parceria com a Ada Tech. Espero auxiliar quem tiver dúvidas e docuentar as resoluções para estudos futuros.
 
 ## Como contribuir
 
