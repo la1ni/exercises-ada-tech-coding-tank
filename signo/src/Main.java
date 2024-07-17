@@ -7,7 +7,7 @@ public class Main {
         System.out.print("Digite o número correspondente ao seu mês de nascimento: ");
         int mesInserido = scanner.nextInt();
 
-        System.out.println("Digite o dia em que você nasceu: ");
+        System.out.print("Digite o dia em que você nasceu: ");
         int diaNascimento =  scanner.nextInt();
 
         String resposta = (mesInserido == 3 && diaNascimento >= 21) || (mesInserido == 4 && diaNascimento <= 20) ? "Áries":
